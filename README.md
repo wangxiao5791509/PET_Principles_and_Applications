@@ -2,23 +2,6 @@
 Principles and Applications for Positron Emission Tomography (PET) 
 
 
-## Top-Conference and Journals for Medical Image Processing
-
-* TMI: IEEE Transactions on Medical Imaging
-* MIA: Medical Image Analysis
-* NEUROIMAGE [[homepage](https://www.journals.elsevier.com/neuroimage)]
-* JBHI: IEEE Journal of Biomedical and Health Informatics
-* JMRI: Journal of Magnetic Resonance Imaging
-* TBE: IEEE Transactions on Biomedical Engineering
-* CMIG: Computerized Medical Imaging and Graphics
-* Biomedical Signal Processing and Control
-* CMPB: Computer Methods and Programs in Biomedicine
-
-* MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention
-* IPMI: Information Processing in Medical Imaging
-* ISBI: IEEE International Symposium on Biomedical Imaging
-* SPIE Medical Imaging
-* MIDL: The International Conference on Medical Imaging with Deep Learning
 
 
 
@@ -38,3 +21,20 @@ Principles and Applications for Positron Emission Tomography (PET)
 * 
 
 
+## Top-Conference and Journals for Medical Image Processing
+
+* TMI: IEEE Transactions on Medical Imaging
+* MIA: Medical Image Analysis
+* NEUROIMAGE [[homepage](https://www.journals.elsevier.com/neuroimage)]
+* JBHI: IEEE Journal of Biomedical and Health Informatics
+* JMRI: Journal of Magnetic Resonance Imaging
+* TBE: IEEE Transactions on Biomedical Engineering
+* CMIG: Computerized Medical Imaging and Graphics
+* Biomedical Signal Processing and Control
+* CMPB: Computer Methods and Programs in Biomedicine
+
+* MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention
+* IPMI: Information Processing in Medical Imaging
+* ISBI: IEEE International Symposium on Biomedical Imaging
+* SPIE Medical Imaging
+* MIDL: The International Conference on Medical Imaging with Deep Learning
