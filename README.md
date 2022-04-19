@@ -3,7 +3,7 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 
 ## Top-Conference and Journals for Medical Image Processing
-```
+
 * TMI: IEEE Transactions on Medical Imaging
 * MIA: Medical Image Analysis
 * NEUROIMAGE [[homepage](https://www.journals.elsevier.com/neuroimage)]
@@ -19,7 +19,7 @@ Principles and Applications for Positron Emission Tomography (PET)
 * ISBI: IEEE International Symposium on Biomedical Imaging
 * SPIE Medical Imaging
 * MIDL: The International Conference on Medical Imaging with Deep Learning
-```
+
 
 
 ## Principles
