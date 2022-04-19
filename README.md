@@ -8,11 +8,23 @@ Principles and Applications for Positron Emission Tomography (PET)
 ## Principles
 
 
+
+
+
+
 ## Applications 
+
+
+
 
 ### Attenuation Correction
 * [Survey] **A Review of Deep-Learning-Based Approaches for Attenuation Correction in Positron Emission Tomography**, Jae Sung Lee, 
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9143173&tag=1)] 
+
+
+
+
+
 
 
 ### PET Image Estimation/Reconstruction 
@@ -28,6 +40,16 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 * Gong, Kuang, et al. "**Iterative PET image reconstruction using convolutional neural network representation.**" IEEE transactions on medical imaging 38.3 (2018): 675-685. [[Paper](https://ieeexplore.ieee.org/abstract/document/8463596/)] 
 
+* Wang, Guobao. "High temporal-resolution dynamic PET image reconstruction using a new spatiotemporal kernel method." IEEE transactions on medical imaging 38.3 (2018): 664-674. [[Paper](https://ieeexplore.ieee.org/abstract/document/8463582/)] 
+
+* Wang, Yan, et al. "**3D auto-context-based locality adaptive multi-modality GANs for PET synthesis**." IEEE transactions on medical imaging 38.6 (2018): 1328-1339. [[Paper](https://ieeexplore.ieee.org/abstract/document/8552676/)] 
+
+
+
+
+
+
+
 
 
 
@@ -40,9 +62,16 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 * Ding, Yao, et al. "**18F-FDG PET and high-resolution MRI co-registration for pre-surgical evaluation of patients with conventional MRI-negative refractory extra-temporal lobe epilepsy**." European Journal of Nuclear Medicine and Molecular Imaging 45.9 (2018): 1567-1572. [[Paper](https://link.springer.com/article/10.1007/s00259-018-4017-0)] 
 
-* Wang, Yan, et al. "**3D auto-context-based locality adaptive multi-modality GANs for PET synthesis**." IEEE transactions on medical imaging 38.6 (2018): 1328-1339. [[Paper](https://ieeexplore.ieee.org/abstract/document/8552676/)] 
 
-* 
+
+
+
+
+
+
+
+
+
 
 
 ## Top-Conference and Journals for Medical Image Processing
@@ -62,3 +91,10 @@ Principles and Applications for Positron Emission Tomography (PET)
 * ISBI: IEEE International Symposium on Biomedical Imaging
 * SPIE Medical Imaging
 * MIDL: The International Conference on Medical Imaging with Deep Learning
+
+
+
+
+
+
+
