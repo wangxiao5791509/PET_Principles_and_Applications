@@ -23,7 +23,7 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ## Top-Conference and Journals for Medical Image Processing
 
-* TMI: IEEE Transactions on Medical Imaging [[home](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)]
+* TMI: IEEE Transactions on Medical Imaging [[homepage](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)]
 * MIA: Medical Image Analysis [[homepage](https://www.journals.elsevier.com/medical-image-analysis)]
 * NEUROIMAGE [[homepage](https://www.journals.elsevier.com/neuroimage)]
 * JBHI: IEEE Journal of Biomedical and Health Informatics [[homepage](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)]
