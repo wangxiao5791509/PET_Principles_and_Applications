@@ -28,6 +28,10 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 
 ### PET Image Estimation/Reconstruction 
+
+* **Deep Learning for PET Image Reconstruction**, Reader, Andrew J., et al. IEEE Transactions on Radiation and Plasma Medical Sciences 5.1 (2020): 1-25. 
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9161006)] 
+
 * "**Full-dose PET image estimation from low-dose PET image using deep learning: a pilot study**." Kaplan, Sydney, and Yang-Ming Zhu.  Journal of digital imaging 32.5 (2019): 773-778.
 
 * Gong, Kuang, et al. "**Direct Reconstruction of Linear Parametric Images from Dynamic PET Using Nonlocal Deep Image Prior**." IEEE Transactions on Medical Imaging (2021). [[Paper](https://ieeexplore.ieee.org/abstract/document/9576711/)] 
