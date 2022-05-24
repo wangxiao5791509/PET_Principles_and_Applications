@@ -29,6 +29,9 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction 
 
+* **DPIR-Net: Direct PET image reconstruction based on the Wasserstein generative adversarial network**[J]. Hu Z, Xue H, Zhang Q, et al. IEEE Transactions on Radiation and Plasma Medical Sciences, 2020, 5(1): 35-43. 
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9096387)]
+
 * [Survey] **Deep Learning for PET Image Reconstruction**, Reader, Andrew J., et al. IEEE Transactions on Radiation and Plasma Medical Sciences 5.1 (2020): 1-25. 
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9161006)] 
 
