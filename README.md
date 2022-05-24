@@ -33,7 +33,7 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 * "**Deep learning based framework for direct reconstruction of PET images.**" Liu, Zhiyuan, Huai Chen, and Huafeng Liu. International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2019. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_6)]
 
-* "**DeepPET: A deep encoder–decoder network for directly solving the PET image reconstruction inverse problem**." Häggström, Ida, et al.  Medical image analysis 54 (2019): 253-262. [[Paper]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537887/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537887/pdf/nihms-1029896.pdf))]
+* "**DeepPET: A deep encoder–decoder network for directly solving the PET image reconstruction inverse problem**." Häggström, Ida, et al.  Medical image analysis 54 (2019): 253-262. [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537887/)]
 
 
 * "**Image reconstruction by domain-transform manifold learning.**" Zhu, Bo, et al. Nature 555.7697 (2018): 487-492. 
