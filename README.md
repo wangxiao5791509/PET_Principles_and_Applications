@@ -29,11 +29,28 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction 
 
+* "**Efficient neural network image reconstruction from raw data using a radon inversion layer**." Whiteley, William, and Jens Gregor.  2019 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC). IEEE, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/9059967)]
+
+* "**Deep learning based framework for direct reconstruction of PET images.**" Liu, Zhiyuan, Huai Chen, and Huafeng Liu. International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2019. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_6)]
+
+* "**DeepPET: A deep encoder–decoder network for directly solving the PET image reconstruction inverse problem**." Häggström, Ida, et al.  Medical image analysis 54 (2019): 253-262. [[Paper]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537887/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537887/pdf/nihms-1029896.pdf))]
+
+
+* "**Image reconstruction by domain-transform manifold learning.**" Zhu, Bo, et al. Nature 555.7697 (2018): 487-492. 
+[[Paper](https://www.nature.com/articles/nature25988.pdf)]
+
+
 * **DPIR-Net: Direct PET image reconstruction based on the Wasserstein generative adversarial network**[J]. Hu Z, Xue H, Zhang Q, et al. IEEE Transactions on Radiation and Plasma Medical Sciences, 2020, 5(1): 35-43. 
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9096387)]
 
+
 * [Survey] **Deep Learning for PET Image Reconstruction**, Reader, Andrew J., et al. IEEE Transactions on Radiation and Plasma Medical Sciences 5.1 (2020): 1-25. 
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9161006)] 
+
+
+
+
+
 
 * "**Full-dose PET image estimation from low-dose PET image using deep learning: a pilot study**." Kaplan, Sydney, and Yang-Ming Zhu.  Journal of digital imaging 32.5 (2019): 773-778.
 
