@@ -29,6 +29,10 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction 
 
+* "**Artificial Intelligence for PET Image Reconstruction**.", Reader, Andrew J., and Georg Schramm. , Journal of Nuclear Medicine 62.10 (2021): 1330-1333.
+[[Paper](https://jnm.snmjournals.org/content/jnumed/62/10/1330.full.pdf)]
+
+
 * "**Efficient neural network image reconstruction from raw data using a radon inversion layer**." Whiteley, William, and Jens Gregor.  2019 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC). IEEE, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/9059967)]
 
 * "**Deep learning based framework for direct reconstruction of PET images.**" Liu, Zhiyuan, Huai Chen, and Huafeng Liu. International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2019. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_6)]
