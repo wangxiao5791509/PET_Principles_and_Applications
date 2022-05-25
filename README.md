@@ -27,7 +27,10 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 
 
-### PET Image Estimation/Reconstruction 
+### PET Image Estimation/Reconstruction
+
+* **Quantitative PET in the 2020s: a roadmap**, Steven R Meikle et al. [[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/abd4f7/pdf)]
+
 
 * "**Artificial Intelligence for PET Image Reconstruction**.", Reader, Andrew J., and Georg Schramm. , Journal of Nuclear Medicine 62.10 (2021): 1330-1333.
 [[Paper](https://jnm.snmjournals.org/content/jnumed/62/10/1330.full.pdf)]
