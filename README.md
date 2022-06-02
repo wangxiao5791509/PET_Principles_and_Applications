@@ -124,22 +124,23 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 
 ## Top-Conference and Journals for Medical Image Processing
+#### Journal 
+* **TMI**: IEEE Transactions on Medical Imaging [[homepage](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)]
+* **MIA**: Medical Image Analysis [[homepage](https://www.journals.elsevier.com/medical-image-analysis)]
+* **NEUROIMAGE** [[homepage](https://www.journals.elsevier.com/neuroimage)]
+* **JBHI**: IEEE Journal of Biomedical and Health Informatics [[homepage](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)]
+* **JMRI**: Journal of Magnetic Resonance Imaging [[homepage](https://onlinelibrary.wiley.com/journal/15222586)]
+* **TBE**: IEEE Transactions on Biomedical Engineering [[homepage](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)]
+* **CMIG**: Computerized Medical Imaging and Graphics [[homepage](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics/vol/98/suppl/C)]
+* **BSPC**: Biomedical Signal Processing and Control [[homepage](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)]
+* **CMPB**: Computer Methods and Programs in Biomedicine [[homepage](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine)]
 
-* TMI: IEEE Transactions on Medical Imaging [[homepage](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)]
-* MIA: Medical Image Analysis [[homepage](https://www.journals.elsevier.com/medical-image-analysis)]
-* NEUROIMAGE [[homepage](https://www.journals.elsevier.com/neuroimage)]
-* JBHI: IEEE Journal of Biomedical and Health Informatics [[homepage](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)]
-* JMRI: Journal of Magnetic Resonance Imaging [[homepage](https://onlinelibrary.wiley.com/journal/15222586)]
-* TBE: IEEE Transactions on Biomedical Engineering [[homepage](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)]
-* CMIG: Computerized Medical Imaging and Graphics [[homepage](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics/vol/98/suppl/C)]
-* Biomedical Signal Processing and Control [[homepage](https://www.journals.elsevier.com/biomedical-signal-processing-and-control)]
-* CMPB: Computer Methods and Programs in Biomedicine [[homepage](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine)]
-
-* MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention
-* IPMI: Information Processing in Medical Imaging
-* ISBI: IEEE International Symposium on Biomedical Imaging
-* SPIE Medical Imaging
-* MIDL: The International Conference on Medical Imaging with Deep Learning
+#### Conference 
+* **MICCAI**: International Conference on Medical Image Computing and Computer Assisted Intervention
+* **IPMI**: Information Processing in Medical Imaging
+* **ISBI**: IEEE International Symposium on Biomedical Imaging
+* **SPIE** Medical Imaging
+* **MIDL**: The International Conference on Medical Imaging with Deep Learning
 
 
 
