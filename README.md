@@ -32,6 +32,8 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction 
 
+* Yang, Bao, Leslie Ying, and Jing Tang. "**Artificial neural network enhanced Bayesian PET image reconstruction**." IEEE transactions on medical imaging 37.6 (2018): 1297-1309. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8283659)]
+
 * Wang, Bo, and Huafeng Liu. "**FBP-Net for direct reconstruction of dynamic PET images**." Physics in Medicine & Biology 65.23 (2020): 235008. [[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/abc09d/pdf)]
 
 * Ote, Kibo, et al. "**List-Mode PET Image Reconstruction Using Deep Image Prior.**" arXiv preprint arXiv:2204.13404 (2022). [[Paper](https://arxiv.org/ftp/arxiv/papers/2204/2204.13404.pdf)]
