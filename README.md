@@ -32,6 +32,8 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction 
 
+* **Deep Kernel Representation for Image Reconstruction in PET**, Siqi Li and Guobao Wang, IEEE transactions on medical imaging 2022, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9777718)]
+
 * **Positronium Lifetime Image Reconstruction for TOF PET**, Jinyi Qi, Bangyan Huang, IEEE transactions on medical imaging 2022, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9777916)]
 
 * Yang, Bao, Leslie Ying, and Jing Tang. "**Artificial neural network enhanced Bayesian PET image reconstruction**." IEEE transactions on medical imaging 37.6 (2018): 1297-1309. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8283659)]
