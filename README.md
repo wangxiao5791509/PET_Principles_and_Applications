@@ -32,6 +32,9 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction
 
+* "**3D Transformer-GAN for High-Quality PET Reconstruction**." International Conference on Medical Image Computing and Computer-Assisted Intervention. Luo, Yanmei, et al.  Springer, Cham, 2021. [[Paper](https://ahueducn-my.sharepoint.com/:b:/g/personal/xiaowang_ahu_edu_cn/EcjkjYQ8NBNJgFJZ0Emy5KgBpESGDT6cEGlhg1aEaplexQ?e=GzGUo4)]
+
+
 * **Quantitative PET in the 2020s: a roadmap**, Steven R Meikle et al. [[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/abd4f7/pdf)]
 
 
