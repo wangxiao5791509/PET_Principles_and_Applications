@@ -32,6 +32,8 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction 
 
+* **3D Segmentation Guided Style-based Generative Adversarial Networks for PET Synthesis**, Yang Zhou*, Zhiwen Yang*, Hui Zhang, Eric I-Chao Chang, Yubo Fan, and Yan Xu [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9727148)]
+
 * **Deep Kernel Representation for Image Reconstruction in PET**, Siqi Li and Guobao Wang, IEEE transactions on medical imaging 2022, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9777718)]
 
 * **Positronium Lifetime Image Reconstruction for TOF PET**, Jinyi Qi, Bangyan Huang, IEEE transactions on medical imaging 2022, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9777916)]
