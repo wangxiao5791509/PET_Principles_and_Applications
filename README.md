@@ -32,6 +32,8 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction 
 
+* Wang, Yan, et al. "**3D conditional generative adversarial networks for high-quality PET image estimation at low dose.**" Neuroimage 174 (2018): 550-562. [[Paper](https://www.sciencedirect.com/science/article/pii/S1053811918302507)]
+
 * **3D Segmentation Guided Style-based Generative Adversarial Networks for PET Synthesis**, Yang Zhou*, Zhiwen Yang*, Hui Zhang, Eric I-Chao Chang, Yubo Fan, and Yan Xu [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9727148)]
 
 * **Deep Kernel Representation for Image Reconstruction in PET**, Siqi Li and Guobao Wang, IEEE transactions on medical imaging 2022, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9777718)]
