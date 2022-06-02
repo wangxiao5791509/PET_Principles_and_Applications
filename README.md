@@ -32,6 +32,8 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction 
 
+* Wang, Bo, and Huafeng Liu. "**FBP-Net for direct reconstruction of dynamic PET images**." Physics in Medicine & Biology 65.23 (2020): 235008. [[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/abc09d/pdf)]
+
 * Ote, Kibo, et al. "**List-Mode PET Image Reconstruction Using Deep Image Prior.**" arXiv preprint arXiv:2204.13404 (2022). [[Paper](https://arxiv.org/ftp/arxiv/papers/2204/2204.13404.pdf)]
 
 * Li, Tiantian, et al. "**Deep Learning Based Joint PET Image Reconstruction and Motion Estimation**." IEEE transactions on medical imaging (2021). [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656180)]
