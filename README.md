@@ -32,6 +32,8 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction 
 
+* **Positronium Lifetime Image Reconstruction for TOF PET**, Jinyi Qi, Bangyan Huang, IEEE transactions on medical imaging 2022, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9777916)]
+
 * Yang, Bao, Leslie Ying, and Jing Tang. "**Artificial neural network enhanced Bayesian PET image reconstruction**." IEEE transactions on medical imaging 37.6 (2018): 1297-1309. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8283659)]
 
 * Wang, Bo, and Huafeng Liu. "**FBP-Net for direct reconstruction of dynamic PET images**." Physics in Medicine & Biology 65.23 (2020): 235008. [[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/abc09d/pdf)]
