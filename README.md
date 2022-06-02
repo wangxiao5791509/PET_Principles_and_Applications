@@ -32,6 +32,8 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 ### PET Image Estimation/Reconstruction 
 
+* Ote, Kibo, et al. "**List-Mode PET Image Reconstruction Using Deep Image Prior.**" arXiv preprint arXiv:2204.13404 (2022). [[Paper](https://arxiv.org/ftp/arxiv/papers/2204/2204.13404.pdf)]
+
 * Li, Tiantian, et al. "**Deep Learning Based Joint PET Image Reconstruction and Motion Estimation**." IEEE transactions on medical imaging (2021). [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656180)]
 
 * Yokota, Tatsuya, et al. "**Dynamic PET image reconstruction using nonnegative matrix factorization incorporated with deep image prior**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yokota_Dynamic_PET_Image_Reconstruction_Using_Nonnegative_Matrix_Factorization_Incorporated_With_ICCV_2019_paper.pdf)]
