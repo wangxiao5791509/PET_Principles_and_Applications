@@ -30,7 +30,9 @@ Principles and Applications for Positron Emission Tomography (PET)
 
 
 
-### PET Image Estimation/Reconstruction
+### PET Image Estimation/Reconstruction 
+
+* "**Model-Based Deep Learning PET Image Reconstruction Using Forward–Backward Splitting Expectation–Maximization**." Mehranian, Abolfazl, and Andrew J. Reader.  IEEE transactions on radiation and plasma medical sciences 5.1 (2020): 54-64. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123435)] [[Code](https://github.com/Abolfazl-Mehranian/FBSEM)]
 
 * "**3D Transformer-GAN for High-Quality PET Reconstruction**." International Conference on Medical Image Computing and Computer-Assisted Intervention. Luo, Yanmei, et al.  Springer, Cham, 2021. [[Paper](https://ahueducn-my.sharepoint.com/:b:/g/personal/xiaowang_ahu_edu_cn/EcjkjYQ8NBNJgFJZ0Emy5KgBpESGDT6cEGlhg1aEaplexQ?e=GzGUo4)]
 
