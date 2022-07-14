@@ -27,6 +27,7 @@ Principles and Applications for Positron Emission Tomography (PET)
 * **[NIPET]**: https://github.com/NiftyPET/NIPET
 * **[SIRF]**: https://github.com/SyneRBI/SIRF
 * **[apirl]**: https://github.com/PET-MR/apirl
+* **[FBSEM]**: https://github.com/Abolfazl-Mehranian/FBSEM
 
 
 
